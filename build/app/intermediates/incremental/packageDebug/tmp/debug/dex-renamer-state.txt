@@ -1,0 +1,4 @@
+#Thu Jun 24 09:40:35 UZT 2021
+base.0=/home/asadbek/Documents/Bootcamp/Flutter/apps/asadbekdev/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
